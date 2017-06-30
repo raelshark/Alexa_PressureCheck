@@ -50,3 +50,5 @@ jspm_packages
 
 # Serverless directories
 .serverless
+
+src/config.js
